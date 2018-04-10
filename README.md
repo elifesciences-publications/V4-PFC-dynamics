@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Fyall et al., "Dynamic representation of partially occluded objects in primate prefrontal and visual cortex". eLife, 2017. http://dx.doi.org/10.7554/eLife.25784
+
+
+
+
 # V4-PFC-dynamics
 
 A rate-based model capturing dynamics of a simplified V4-vlPFC neuronal network. 
